@@ -1,0 +1,8 @@
+/dist/
+/ble-prototype/out/
+/ble-prototype/PhoneMedia-BLE.ps1
+/ble-prototype/PhoneMediaBle.cs
+/src/Phone.cs
+/蓝牙直连技术选型.md
+*.jks
+*.keystore
